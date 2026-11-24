@@ -19,7 +19,7 @@ MediBot is a local, retrieval-augmented medical reference chatbot. It uses Strea
 - Internet access for the initial package and model downloads
 - Enough memory and disk space to load and cache the local models
 
-The app is configured to run the language model on CPU. Replies can take several seconds, depending on your computer. Model weights are downloaded from Hugging Face on first use; no `HF_TOKEN` is required for these public models.
+The app is configured to run the language model on CPU. Replies can take several seconds, depending on your computer. Model weights are downloaded from Hugging Face on first use.
 
 ## Setup on Windows
 
